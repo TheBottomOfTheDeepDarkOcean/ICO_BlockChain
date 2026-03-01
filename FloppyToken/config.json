@@ -1,0 +1,10 @@
+{
+  "dev": {},
+  "sepolia": {
+    "Floppy": "0x31b44bF6b20843c0602a5fe959e3bD414fc0323B",
+    "Vault": "0x972c8547d72B7F3F96a88BC6fB1e7ff09c329638",
+    "USDT": "0x85AAba53a1c625b38c92507B23504E84D087fd97",
+    "ICO": "0x75d0b8bB3A557f1Ea17d6FF0ddAcf9dd12187E7d"
+  },
+  "main": {}
+}
